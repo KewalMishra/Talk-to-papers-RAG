@@ -32,10 +32,3 @@ The diagram below illustrates the RAG system flow:
 - **Chat Management System**: Maintains conversation history for context.
 - **Foundation Model (GPT-3.5)**: Generates responses based on vector matches and conversational context.
 
-## Usage
-
-To use the system, initiate a query through the user interface. The system processes the query, retrieves relevant information from the Vector DB, and the Foundation Model crafts a response.
-
-## Conclusion
-
-This README provides a high-level overview. Detailed documentation is available for specific installation, configuration, and contribution guidelines.
